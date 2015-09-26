@@ -1,0 +1,9 @@
+Building Nodes
+
+See doc/readme-qt.rst for instructions on building Nodes QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nodes.
+
+See doc/build-*.txt for instructions on building d,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nodes.
